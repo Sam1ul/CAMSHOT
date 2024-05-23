@@ -1,2 +1,2 @@
 # CAMSHOT
-Image Sharing Software
+A social platform for photographers 
